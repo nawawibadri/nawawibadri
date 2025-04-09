@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Assalamu'alaikum, I'm Nawawi Badri
 
-<!--
-**nawawibadri/nawawibadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a Python Developer and Data Analyst from Seram Island, Maluku, Indonesia.  
+🔍 Passionate about predictive analytics, smart energy systems, and Islamic digital ethics.  
+📈 Currently building AI-driven monitoring systems for smart energy terminals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python, Pandas, NumPy, Scikit-Learn
+- Streamlit, Dash, Plotly
+- Git, GitHub, Jupyter
+- Data Visualization & Predictive Modeling
+
+---
+
+## 📁 Projects
+1. **Smart Terminal Condition Monitor** – [Coming Soon]
+2. **Energy Forecast Dashboard (Streamlit)** – [Coming Soon]
+3. **Python Web Scraper for BBM Prices** – [Coming Soon]
+
+---
+
+## 📫 Contact
+- ✉️ Email: [nawawiwawibadri@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/nawawibadri] (jika sudah ada)
+- 🌍 GitHub: [github.com/nawawibadri](https://github.com/nawawibadri)
+
+---
+
+*“Knowledge without adab is like fire without light.”*
