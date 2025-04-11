@@ -1,4 +1,4 @@
-# 👋 Assalamu'alaikum, I'm Nawawi Badri Saimima,S.T. M.Eng.
+# 👋 Assalamu'alaikum, I'm Nawawi Badri Saimima, S.T., M.Eng.
 
 🚀 I'm a Python Developer and Data Analyst from Seram Island, Maluku, Indonesia.  
 🔍 Passionate about predictive analytics, smart energy systems, and Islamic digital ethics.  
